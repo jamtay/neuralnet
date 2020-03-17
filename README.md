@@ -1,4 +1,5 @@
 # Neural networks
+A neurel network demo stolen for a presentation 
 
 ## 3d visualisation 
 
